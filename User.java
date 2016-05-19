@@ -1,5 +1,7 @@
 package com.restful.service;
-
+/**
+ * User POJO class aka Model class
+ * */
 import java.io.Serializable;
 
 import javax.xml.bind.annotation.XmlElement;
