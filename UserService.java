@@ -1,5 +1,8 @@
 package com.restful.service;
-
+/**
+ * Rest Service class
+ * */
+ 
 import java.util.List;
 
 import javax.ws.rs.Consumes;
