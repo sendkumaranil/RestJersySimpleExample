@@ -1,3 +1,19 @@
+# Importatint Topics on REST
+1) HTTP Methods
+----------------
+2) HTTP Headers -Metadata
+-------------------------
+3) Response Status Code
+------------------------
+4) Parameters
+-------------------------
+5) Content Negotiation
+------------------------
+6) HATEOAS
+------------------------
+7) Security
+------------------------
+
 # RestJersySimpleExample
 
 Download Jars from: https://jersey.java.net/download.html
