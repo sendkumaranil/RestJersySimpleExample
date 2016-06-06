@@ -13,6 +13,7 @@
 ------------------------
 7) Security
 ------------------------
+*Note: 1-4 topics covered in this example.
 
 # RestJersySimpleExample
 
