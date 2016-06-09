@@ -1,27 +1,23 @@
-# Importatint Topics on REST
-1) HTTP Methods
-----------------
-2) HTTP Headers -Metadata
--------------------------
-3) Response Status Code
-------------------------
-4) Parameters
--------------------------
-5) Content Negotiation
-------------------------
-6) HATEOAS
-------------------------
-7) Security
-------------------------
+# Important Topics on REST
+
+<b>1) HTTP Methods</b><br>
+<b>2) HTTP Headers -Metadata</b><br>
+<b>3) Response Status Code</b><br>
+<b>4) Parameters</b><br>
+<b>5) Content Negotiation</b><br>
+<b>6) HATEOAS</b><br>
+<b>7) Security</b><br>
+
 *Note: 1-4 topics covered in this example.
 
 Important HTTP Methods:
 ------------------------
-<b>GET</b><br>
-<b>POST</b><br>
-<b>PUT</b><br>
-<b>DELETE</b><br>
-
+<ul>
+<li>GET</li>
+<li>POST</li>
+<li>PUT</li>
+<li>DELETE</li>
+</ul>
 <b>GET</b>: This is request to get the resource from server,we can easily see the get request url on browser,
 since the GET request is read-only therefore this does not make any side effects or changes the resources on servers.
 So GET request is called as Idmpotent, it means when we repeat the request it doesn't effects on server.
