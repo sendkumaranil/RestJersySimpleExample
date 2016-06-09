@@ -20,7 +20,7 @@ Important HTTP Methods:
 </ul>
 <b>GET</b>: This is request to get the resource from server,we can easily see the get request url on browser,
 since the GET request is read-only therefore this does not make any side effects or changes the resources on servers.
-So GET request is called as Idmpotent, it means when we repeat the request it doesn't effects on server.
+So GET request is called as Idempotent, it means when we repeat the request it doesn't effects on server.
 
 <b>POST</b>: This is request to insert or update the resources on server,we can not see the url of POST method on browser because data is passing through 
 request body.Since the POST request is write-method therefore this makes side effects or changes the resources on server.
